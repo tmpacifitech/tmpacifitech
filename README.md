@@ -5,11 +5,11 @@
 ## 💪 Overview
 
 <p>
-  <a href="https://github.com/tmpacifitech/tmpacifitech" >
+  <a href="https://github.com/tmpacifitech" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=tmpacifitech&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/tmpacifitech/tmpacifitech" >
+  <a href="https://github.com/tmpacifitech" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmpacifitech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Dev's GitHub Stats" height="180px"/>
   </a>
   
@@ -17,7 +17,7 @@
  
  <p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=tmpacifitech&theme=onedark&row=1&&column=7)](https://github.com/tmpacifitech/tmpacifitech)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=tmpacifitech&theme=onedark&row=1&&column=7)](https://github.com/tmpacifitech)
  </p>
  
 <br />
